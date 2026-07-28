@@ -36,6 +36,6 @@ The ESP32 Smart Surveillance Robot is an IoT-based robotic system designed for w
 3. ESP32-CAM streams live video for surveillance
 4. Commands are sent wirelessly to move robot forward, backward, left, right
 
-👩‍💻 Author
+👩‍💻 Author: 
 Hadia Mujahid 
 BS Computer Science Student
